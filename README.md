@@ -1,4 +1,4 @@
 waytogo
 =======
 
-Test
+Test.OK.
